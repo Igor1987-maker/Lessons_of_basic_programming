@@ -4,7 +4,7 @@ public class Test {
 
 	public static void main(String[] args) {
 		
-		int [] A = {-1,-3};	
+		int [] A = {-2,23,345,-44};
 		int res = solution(A);
 System.out.println(res);
 
