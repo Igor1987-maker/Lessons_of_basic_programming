@@ -25,7 +25,7 @@ public class CollectionsMethods {
 
 	private static double maxValue(double [] decMax){
 
-		List<Double> list = new ArrayList<>();
+		//List<Double> list = new ArrayList<>();
 		Set<Double> set = new TreeSet<>();
 		for(Double d:decMax){
 			set.add(d);
